@@ -1,0 +1,20 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoEvangelista06/api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoEvangelista06/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/EnzoEvangelista06/api-nodejs#readme"
+}
